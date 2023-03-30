@@ -459,6 +459,7 @@ img{
 
 .contact__button:hover{
     background-color: var(--dark-color);
+    height: fit-content;
 }
 
 .contact__message{
