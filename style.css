@@ -417,6 +417,7 @@ img{
     color: #FAFAFF;
     font-weight: 900;
 }
+
 .portfolio__link-name:hover{
     color: var(--dark-color);
     text-decoration: underline;
